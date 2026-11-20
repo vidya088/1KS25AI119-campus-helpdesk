@@ -1,1 +1,1 @@
-Mode: debug
+Mode: safe
